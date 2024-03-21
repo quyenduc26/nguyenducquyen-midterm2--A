@@ -14,7 +14,6 @@
     @include('blocks.header')
     @yield('hero')
     @yield('content')
-    @yield('data')
     @include('blocks.footer')
 </body>
 </html>
